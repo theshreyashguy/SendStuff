@@ -96,13 +96,6 @@ Built with a microservice-first approach using:
 
 ---
 
-## 📹 Demo Video
-
-> [Watch our walkthrough video here](#)  
-> (Replace with your actual demo link)
-
----
-
 ## 🤝 Contribution
 
 Contributions are welcome and appreciated!  
